@@ -15,7 +15,7 @@
 
 ```bash
 # 下载脚本
-wget https://raw.githubusercontent.com/xth81/onekey-vaultwarden/main/vaultwarden.sh
+curl -O https://raw.githubusercontent.com/xth81/onekey-vaultwarden/main/vaultwarden.sh
 
 # 赋予执行权限
 chmod +x vaultwarden.sh
